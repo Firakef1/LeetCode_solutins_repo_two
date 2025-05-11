@@ -10,6 +10,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0643-maximum-average-subarray-i) |
 | [1293-three-consecutive-odds](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1293-three-consecutive-odds) |
 | [1603-running-sum-of-1d-array](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1603-running-sum-of-1d-array) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Linked List
 |  |
