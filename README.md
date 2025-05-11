@@ -49,6 +49,7 @@
 | [0015-3sum](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -114,6 +115,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0187-repeated-dna-sequences) |
@@ -203,4 +205,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1013-fibonacci-number) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
