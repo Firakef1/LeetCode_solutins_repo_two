@@ -25,6 +25,7 @@
 | [0566-reshape-the-matrix](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0661-image-smoother) |
+| [0724-find-pivot-index](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0898-transpose-matrix) |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1603-running-sum-of-1d-array) |
 ## Sliding Window
 |  |
