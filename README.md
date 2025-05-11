@@ -119,6 +119,7 @@
 | [0187-repeated-dna-sequences](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0344-reverse-string) |
 | [1547-destination-city](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1547-destination-city) |
+| [1797-goal-parser-interpretation](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1797-goal-parser-interpretation) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/2536-determine-if-two-events-have-conflict) |
 ## Bit Manipulation
