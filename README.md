@@ -22,6 +22,7 @@
 | [0566-reshape-the-matrix](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0661-image-smoother) |
+| [0792-binary-search](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0898-transpose-matrix) |
 | [1293-three-consecutive-odds](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1293-three-consecutive-odds) |
@@ -145,6 +146,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0792-binary-search) |
 ## Counting Sort
 |  |
 | ------- |
