@@ -124,6 +124,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0187-repeated-dna-sequences) |
+| [0242-valid-anagram](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0242-valid-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1547-destination-city](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1547-destination-city) |
 ## String
@@ -134,6 +135,7 @@
 | [0043-multiply-strings](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0187-repeated-dna-sequences) |
+| [0242-valid-anagram](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0344-reverse-string) |
 | [1547-destination-city](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1547-destination-city) |
 | [1797-goal-parser-interpretation](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1797-goal-parser-interpretation) |
@@ -161,6 +163,7 @@
 | [0088-merge-sorted-array](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0242-valid-anagram) |
 | [1018-largest-perimeter-triangle](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1018-largest-perimeter-triangle) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
