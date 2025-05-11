@@ -25,6 +25,7 @@
 | [0792-binary-search](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0898-transpose-matrix) |
+| [1018-largest-perimeter-triangle](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1018-largest-perimeter-triangle) |
 | [1293-three-consecutive-odds](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1293-three-consecutive-odds) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1547-destination-city](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1547-destination-city) |
@@ -76,6 +77,7 @@
 | [0204-count-primes](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1018-largest-perimeter-triangle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
 |  |
@@ -144,6 +146,7 @@
 | [0015-3sum](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0164-maximum-gap) |
+| [1018-largest-perimeter-triangle](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1018-largest-perimeter-triangle) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
@@ -209,4 +212,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [1018-largest-perimeter-triangle](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1018-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
