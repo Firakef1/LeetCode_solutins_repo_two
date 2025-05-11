@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0033-search-in-rotated-sorted-array) |
+| [0057-insert-interval](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0164-maximum-gap) |
