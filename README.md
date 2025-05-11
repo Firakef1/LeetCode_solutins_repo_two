@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0002-add-two-numbers) |
+| [0258-add-digits](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0258-add-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -118,4 +119,12 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0074-search-a-2d-matrix) |
 | [0661-image-smoother](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0661-image-smoother) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
