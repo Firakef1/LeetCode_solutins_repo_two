@@ -8,9 +8,14 @@
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0061-rotate-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0061-rotate-list) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
