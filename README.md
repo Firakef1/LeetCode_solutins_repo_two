@@ -16,6 +16,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0303-range-sum-query-immutable) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -112,6 +114,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0187-repeated-dna-sequences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1547-destination-city](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1547-destination-city) |
@@ -147,6 +150,7 @@
 | [0015-3sum](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0169-majority-element) |
 | [1018-largest-perimeter-triangle](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1018-largest-perimeter-triangle) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
@@ -161,6 +165,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bucket Sort
 |  |
