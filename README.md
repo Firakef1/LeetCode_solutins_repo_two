@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0303-range-sum-query-immutable) |
@@ -88,6 +89,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0164-maximum-gap) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
@@ -98,4 +100,12 @@
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
