@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0303-range-sum-query-immutable) |
 | [1293-three-consecutive-odds](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1293-three-consecutive-odds) |
 ## Linked List
 |  |
@@ -41,5 +42,10 @@
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0303-range-sum-query-immutable) |
 | [0838-design-linked-list](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0838-design-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
