@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0303-range-sum-query-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0643-maximum-average-subarray-i) |
 | [1293-three-consecutive-odds](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1293-three-consecutive-odds) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0061-rotate-list) |
+| [0283-move-zeroes](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0283-move-zeroes) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Recursion
 |  |
