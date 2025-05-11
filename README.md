@@ -85,6 +85,7 @@
 | [0258-add-digits](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1018-largest-perimeter-triangle) |
+| [1236-n-th-tribonacci-number](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1236-n-th-tribonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
 |  |
@@ -224,10 +225,12 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1236-n-th-tribonacci-number) |
 ## String Matching
 |  |
 | ------- |
