@@ -9,6 +9,7 @@
 | [0283-move-zeroes](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0303-range-sum-query-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0643-maximum-average-subarray-i) |
+| [0661-image-smoother](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0661-image-smoother) |
 | [1293-three-consecutive-odds](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1293-three-consecutive-odds) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1603-running-sum-of-1d-array) |
@@ -108,4 +109,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0164-maximum-gap) |
+## Matrix
+|  |
+| ------- |
+| [0661-image-smoother](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0661-image-smoother) |
 <!---LeetCode Topics End-->
