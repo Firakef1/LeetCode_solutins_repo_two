@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0303-range-sum-query-immutable) |
+| [0643-maximum-average-subarray-i](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0643-maximum-average-subarray-i) |
 | [1293-three-consecutive-odds](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1293-three-consecutive-odds) |
 | [1603-running-sum-of-1d-array](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1603-running-sum-of-1d-array) |
 ## Linked List
@@ -50,4 +51,8 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0303-range-sum-query-immutable) |
 | [1603-running-sum-of-1d-array](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1603-running-sum-of-1d-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
