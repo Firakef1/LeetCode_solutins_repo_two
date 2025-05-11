@@ -10,6 +10,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0303-range-sum-query-immutable) |
+| [0566-reshape-the-matrix](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0661-image-smoother) |
 | [0861-flipping-an-image](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0861-flipping-an-image) |
@@ -122,6 +123,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0074-search-a-2d-matrix) |
+| [0566-reshape-the-matrix](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0661-image-smoother) |
 | [0861-flipping-an-image](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0898-transpose-matrix) |
@@ -129,6 +131,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0258-add-digits) |
+| [0566-reshape-the-matrix](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0898-transpose-matrix) |
 ## Number Theory
