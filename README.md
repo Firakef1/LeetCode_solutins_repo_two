@@ -81,6 +81,7 @@
 | [0043-multiply-strings](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1013-fibonacci-number) |
@@ -224,11 +225,13 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1236-n-th-tribonacci-number) |
 ## String Matching
