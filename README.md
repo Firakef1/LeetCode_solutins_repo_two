@@ -28,6 +28,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1018-largest-perimeter-triangle) |
 | [1293-three-consecutive-odds](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1293-three-consecutive-odds) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1547-destination-city](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1547-destination-city) |
 | [1603-running-sum-of-1d-array](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1603-running-sum-of-1d-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -148,6 +149,7 @@
 | [0164-maximum-gap](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0164-maximum-gap) |
 | [1018-largest-perimeter-triangle](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1018-largest-perimeter-triangle) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
 |  |
@@ -216,4 +218,5 @@
 |  |
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1018-largest-perimeter-triangle) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 <!---LeetCode Topics End-->
