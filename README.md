@@ -24,6 +24,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1603-running-sum-of-1d-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2551-apply-operations-to-an-array](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/2551-apply-operations-to-an-array) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3632-button-with-longest-push-time](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/3632-button-with-longest-push-time) |
 ## Linked List
@@ -46,6 +47,7 @@
 | [0283-move-zeroes](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0344-reverse-string) |
 | [0861-flipping-an-image](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0861-flipping-an-image) |
+| [2551-apply-operations-to-an-array](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/2551-apply-operations-to-an-array) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Recursion
 |  |
@@ -155,6 +157,7 @@
 | [0861-flipping-an-image](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0898-transpose-matrix) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2551-apply-operations-to-an-array](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/2551-apply-operations-to-an-array) |
 ## Number Theory
 |  |
 | ------- |
