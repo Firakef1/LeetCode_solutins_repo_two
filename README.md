@@ -12,6 +12,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0303-range-sum-query-immutable) |
 | [0566-reshape-the-matrix](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0566-reshape-the-matrix) |
@@ -60,6 +61,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0043-multiply-strings) |
+| [0204-count-primes](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0258-add-digits) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
@@ -161,9 +163,14 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0258-add-digits) |
 ## Queue
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
