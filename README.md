@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0027-remove-element) |
@@ -98,6 +99,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0001-two-sum) |
 | [0187-repeated-dna-sequences](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0187-repeated-dna-sequences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
