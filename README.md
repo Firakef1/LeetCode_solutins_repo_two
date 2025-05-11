@@ -15,6 +15,7 @@
 | [0066-plus-one](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0169-majority-element) |
@@ -57,6 +58,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0344-reverse-string) |
@@ -154,6 +156,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0169-majority-element) |
 | [1018-largest-perimeter-triangle](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1018-largest-perimeter-triangle) |
