@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0258-add-digits) |
 ## Divide and Conquer
 |  |
@@ -81,6 +82,7 @@
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0043-multiply-strings) |
 | [0187-repeated-dna-sequences](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0187-repeated-dna-sequences) |
 ## Bit Manipulation
 |  |
@@ -130,6 +132,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0861-flipping-an-image) |
