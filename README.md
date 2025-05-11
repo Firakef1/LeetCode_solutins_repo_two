@@ -25,6 +25,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1603-running-sum-of-1d-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2536-determine-if-two-events-have-conflict](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2551-apply-operations-to-an-array](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/2551-apply-operations-to-an-array) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3632-button-with-longest-push-time](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/3632-button-with-longest-push-time) |
@@ -104,6 +105,7 @@
 | [0187-repeated-dna-sequences](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0344-reverse-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2536-determine-if-two-events-have-conflict](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/2536-determine-if-two-events-have-conflict) |
 ## Bit Manipulation
 |  |
 | ------- |
