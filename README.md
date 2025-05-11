@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0164-maximum-gap) |
@@ -65,6 +66,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0258-add-digits) |
