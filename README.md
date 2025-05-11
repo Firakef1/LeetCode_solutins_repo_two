@@ -65,6 +65,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0258-add-digits) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0344-reverse-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -113,6 +115,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0187-repeated-dna-sequences) |
 | [0861-flipping-an-image](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0861-flipping-an-image) |
 ## Rolling Hash
@@ -161,6 +164,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0861-flipping-an-image) |
