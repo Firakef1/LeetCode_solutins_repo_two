@@ -48,6 +48,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0061-rotate-list) |
+| [0206-reverse-linked-list](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0838-design-linked-list) |
 ## Two Pointers
 |  |
@@ -71,6 +72,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Math
