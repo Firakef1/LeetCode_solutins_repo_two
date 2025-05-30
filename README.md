@@ -140,6 +140,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0043-multiply-strings) |
+| [0058-length-of-last-word](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Firakef1/LeetCode_solutins_repo_two/tree/master/0242-valid-anagram) |
