@@ -4,18 +4,10 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        counter = 0
-        prev = ""
+        s_list = s.split()
+        last = s_list[-1]
 
-        for i in s:
-
-            if prev == " " and i != " ": counter = 1
-
-            elif i != " ": counter +=1
-
-            prev = i
-
-        return counter
+        return len(last)
 
 
             
